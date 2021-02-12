@@ -1,2 +1,2 @@
-# gamemaster
-yes
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
